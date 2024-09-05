@@ -3,7 +3,7 @@
 - Python
 - Java
 ## Currently Working on
-Unfortunately, I don't have any projects I'm working on.
+Terminal-line flashcard and problem generator app. 
 
 # Who I am
 Hello, I'm whYXZee!
